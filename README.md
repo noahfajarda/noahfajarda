@@ -6,6 +6,8 @@ I am a UC Irvine Graduate and a <strong>Full-Stack Web Developer</strong> certif
 
 - 📫 How to reach me: <a href="mailto:noahfajarda1@gmail.com" target="_blank">noahfajarda1@gmail.com</a>
 - 📝 <a target="_blank" href="https://www.linkedin.com/in/noah-fajarda/overlay/1635528997591/single-media-viewer/?profileId=ACoAADRi9VUBqCtvzRDc6m5Gw1VptpAsoClsVyI">Resume</a>
+- 🧑‍💼 <a target="_blank" href="https://www.linkedin.com/in/noah-fajarda/">LinkedIn</a>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahfajarda&theme=radical"/>
 
