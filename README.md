@@ -9,8 +9,7 @@ I am a UC Irvine Graduate and a <strong>Full-Stack Web Developer</strong> certif
 - 🧑‍💼 <a target="_blank" href="https://www.linkedin.com/in/noah-fajarda/">LinkedIn</a>
 - 💼 <a target="_blank" href="https://noahfajarda.vercel.app/">Portfolio</a>
 
-
-
+<img src="https://myreadme.vercel.app/api/embed/noahfajarda?panels=toplanguages,userstatistics,commitgraph"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=noahfajarda&theme=radical"/>
 
 ### Follow Me And See My Work!
